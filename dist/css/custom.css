@@ -1,0 +1,16 @@
+.button{
+    height: 115px;
+    text-align: center;
+}
+
+*{
+    font-family: poppins;
+}
+
+.bgimg{
+    color: red;
+    /* background-image: url('../dist/img/bgimg.jpg'); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
